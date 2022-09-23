@@ -4,7 +4,7 @@
 	- [**google-java-format**](https://github.com/google/google-java-format)
 
 - Linter
-	- [**JDK**](https://docs.oracle.com/en/java/javase/11/)
+	- [**JDK**](https://www.oracle.com/java/technologies/downloads/)
 
 - Compiler
-	- [**JDK**](https://docs.oracle.com/en/java/javase/11/)
+	- [**JDK**](https://www.oracle.com/java/technologies/downloads/)
