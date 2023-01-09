@@ -1,4 +1,4 @@
-# Credits
+# Vert.x World Compiler
 
 - Formatter
 	- [google-java-format](https://github.com/google/google-java-format/)
